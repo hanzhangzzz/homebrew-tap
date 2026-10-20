@@ -1,6 +1,6 @@
 cask "native-task-router" do
-  version "0.5.0"
-  sha256 "d895ba1aa424bb676eee48629d250780a51940b1e776e7fbdd42430d9ee02b44"
+  version "0.6.0"
+  sha256 "4a79468fe4dfb8daa4dff473767e047d1dbe7b4ae21bf6aa16fc18351455d4c9"
 
   url "https://github.com/hanzhangzzz/native-task-router/releases/download/v#{version}/Native-Task-Router-#{version}-arm64.dmg"
   name "Native Task Router"
